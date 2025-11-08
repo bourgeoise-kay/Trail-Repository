@@ -1,0 +1,5 @@
+curl -sSL https://trailbase.io/install.sh | bash
+
+Once installed, you can run
+
+trail help
